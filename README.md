@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Chris 👋
+
+I'm a Computer Science student with a focus on software, data, and systems. Currently building strong fundamentals in C++, Python, and x86 assembly (MASM).
 
 <!--
 **chris-m-torres/chris-m-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
