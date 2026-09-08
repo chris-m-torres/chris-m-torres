@@ -1,6 +1,11 @@
 ## Hi, I'm Chris 👋
 
-I'm a Computer Science master's pathway student with a focus on software, data, and systems. Currently building strong fundamentals in C++, x86 assembly (MASM), and Python.
+I'm a Computer Science master's student with a focus on software, data, and systems. Currently strengthening foundations in C++, C, Python, Java, and x86 Assembly(MASM).
+
+### Currently learning
+- Data structures and algorithms
+- Operating systems and Unix/Linux
+- Computer architecture
 
 <p align="left"> <a href="https://www.github.com/chris-m-torres" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
