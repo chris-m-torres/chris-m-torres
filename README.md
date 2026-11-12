@@ -8,7 +8,7 @@ My interests include backend development, software infrastructure, and data engi
 - Contributing to Nebula Labs, a student-led software development organization at UT Dallas
 - Working with Go, GraphQL and MongoDB on backend services
 
-### 📚 Currently Coursework
+### 📚 Current Coursework
 - Data structures and algorithms
 - Operating systems and Unix/Linux
 - Computer architecture
