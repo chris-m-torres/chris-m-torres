@@ -1,11 +1,21 @@
 ## Hi, I'm Chris 👋
 
-I'm a Computer Science master's student with a focus on software, data, and systems. Currently strengthening foundations in C++, C, Python, Java, and x86 Assembly(MASM).
+I'm a Computer Science master's student at the University of Texas at Dallas, pursuing the Systems track.
 
-### Currently learning
+My interests include backend development, software infrastructure, and data engineering. I'm currently building my technical foundation through graduate coursework and collaborative software projects.
+
+### 🔭 Currently Working On
+- Contributing to Nebula Labs, a student-led software development organization at UT Dallas
+- Working with Go, GraphQL and MongoDB on backend services
+
+### 📚 Currently Coursework
 - Data structures and algorithms
 - Operating systems and Unix/Linux
 - Computer architecture
+
+### 💻 Technical Skills
+- Languages: C++, C, Go, Python, Java, x86 Assembly (MASM)
+- Tools & Technologies: Git, GitHub, Linux, GraphQL, MongoDB
 
 <p align="left"> <a href="https://www.github.com/chris-m-torres" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
