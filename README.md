@@ -1,8 +1,6 @@
-## Hi, I'm Chris 👋
-
 I'm a Computer Science master's student at the University of Texas at Dallas, pursuing the Systems track.
 
-My interests include backend development, software infrastructure, and data engineering. I'm currently building my technical foundation through graduate coursework and collaborative software projects.
+I'm interested in backend development, software infrastructure, and data engineering. I'm building my technical foundation through graduate coursework and collaborative software projects.
 
 ### 🔭 Currently Working On
 - Contributing to Nebula Labs, a student-led software development organization at UT Dallas
