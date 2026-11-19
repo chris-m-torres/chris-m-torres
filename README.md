@@ -2,16 +2,16 @@ I'm a Computer Science master's student at the University of Texas at Dallas, pu
 
 I'm interested in backend development, software infrastructure, and data engineering. I'm building my technical foundation through graduate coursework and collaborative software projects.
 
-### 🔭 Currently Working On
+##  Currently Working On
 - Contributing to Nebula Labs, a student-led software development organization at UT Dallas
 - Working with Go, GraphQL and MongoDB on backend services
 
-### 📚 Current Coursework
+##  Current Coursework
 - Data structures and algorithms
 - Operating systems and Unix/Linux
 - Computer architecture
 
-### 💻 Technical Skills
+##  Technical Skills
 - Languages: C++, C, Go, Python, Java, x86 Assembly (MASM)
 - Tools & Technologies: Git, GitHub, Linux, GraphQL, MongoDB
 
